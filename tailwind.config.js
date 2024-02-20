@@ -20,6 +20,17 @@ module.exports = {
       height: {
         header: '80px',
       },
+      inset: {
+        header: '80px',
+      },
+      backgroundImage: {
+        'hero-1': "url('/src/images/hero-1.jpg')",
+        'hero-2': "url('/src/images/hero-2.jpg')",
+        'hero-3': "url('/src/images/hero-3.jpg')",
+        'hero-4': "url('/src/images/hero-4.jpg')",
+        'hero-5': "url('/src/images/hero-5.jpg')",
+        'hero-6': "url('/src/images/hero-6.jpg')",
+      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
